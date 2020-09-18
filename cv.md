@@ -29,3 +29,25 @@ Seven Networks, LLC – Marshall, TX | *June 2019 – August 2019*
 * Implemented web APIs for posting to and getting information from the server.
 * Gained knowledge related to using Logcat and TCP Dump to identify bugs in the application.
 * Worked effectively within a team in an Agile environment utilizing JIRA, GitLab, and Jenkins.
+
+### EDUCATION
+
+**B.S. in Computer Sciences** | Minor in Mathematics – Louisiana Tech University – Ruston, LA | *May 2020*
+
+### TECHNICAL SKILLS
+
+* **Languages:** Java, Python, C++, HTML, CSS, JavaScript
+
+* **Methodologies:** Agile, SCRUM
+
+* **Project Management Tools:** Trello, Jira
+
+* **Operating Systems:** Windows, Linux 
+
+* **IDE:** Microsoft Visual Studio Code, Android Studio
+ 
+* **Version Control:** Git
+
+### LANGUAGE FLUENCY
+
+Fully bilingual in English and Russian, Partial knowledge of Turkish 
